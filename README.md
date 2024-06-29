@@ -28,6 +28,5 @@ A modern shopping web application built with React.
 ## Installation
 
 1. **Clone the repository**
-
-2.npm install
-3.npm start
+    (1)npm install
+    (2)npm start
