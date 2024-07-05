@@ -23,6 +23,9 @@ A modern shopping web application built with React.
   
 ![Screenshot from 2024-06-29 14-41-59](https://github.com/Shatender/shopapp-redux-Main/assets/142409631/83369270-b003-4103-af89-f02e6e8bf8ac)
 
+![image](https://github.com/Shatender/shopapp-redux-Main/assets/142409631/b384a60a-d5a8-4e59-8cb7-9f2a98bd00b2)
+
+
 
 
 
